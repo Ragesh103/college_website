@@ -1,0 +1,36 @@
+.commonclass{
+    padding: 60px 50px;
+    text-align: justify;
+}
+.bg-grey {
+    background-color: #f6f6f6;
+    padding: 60px 50px;
+    
+  }
+  .bg-blue{
+    background-color: rgb(13, 13, 39);
+    color: white;
+    padding: 100px 25px;
+ 
+  }
+
+  .card-hover {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.card-hover:hover {
+    transform: scale(1.04);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+}
+
+  /* h4 {
+    font-size: 19px;
+    line-height: 1.375em;
+    font-weight: 400;
+    margin-bottom: 30px;
+  } 
+  h2 {
+    font-size: 24px;
+    text-transform: uppercase;
+    font-weight: 600;
+    margin-bottom: 30px;
+  } */
