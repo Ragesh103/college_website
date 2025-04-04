@@ -7,7 +7,7 @@ from . import forms
 
 # Create your views here.
 def login(request):
-    return render(request,'school/login.html')
+    return render(request,'school/index.html')
 
 
 def home(request):
